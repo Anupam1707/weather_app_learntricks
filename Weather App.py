@@ -1,21 +1,3 @@
-"""
-Important Guidelines and Information about the Project:
-1. This project requires Internet Connection to work as supposed to be.
-2. This project is build up on few major libraries and api's as follows:
-    a)Tkinter
-    b)pillow
-    c)datetime
-    d)requests
-    e)fetchify
-    f)OpenWeatherMap API
-    g)ipinfo API
-    h)timeapi
-3. It is advised to open this porject on 1920x1080 resolution at 125% scale display for best experience.
-4. Few Libraries used may require individual installation instead of grouped.
-5. The library 'fetchify' is developed by Anupam Kanoongo i.e me. (Github : Anupam1707).
-6. To report any issue or bug, user can drop a mail at anupamkanoongo@gmail.com
-"""
-
 from tkinter import *
 from tkinter import messagebox
 from tkinter import END
